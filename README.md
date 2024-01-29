@@ -6,7 +6,7 @@ A continuación se presenta una Bases de datos de un sistema de alumnos, profeso
 <summary>Instalación de la DB </summary>
 
 1️⃣ Instalar PostgreSQL y pgAdmin
-Archivos de datos SQL: descarga archivo platzi-carreras.sql y archivo platzi-alumnos.sql.
+Archivos de datos SQL: descarga archivo [platzi-carreras.sql](https://github.com/PaolaDaft/Platzi-Students-database/blob/main/platzi-carreras.sql) y archivo [platzi-alumnos.sql](https://github.com/PaolaDaft/Platzi-Students-database/blob/main/platzi-alumnos.sql).
 
 Una vez tienes instalado PostgreSQL y pgAdmin vamos a crear la estructura de datos que veremos a lo largo del curso.
 
